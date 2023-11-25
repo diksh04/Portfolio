@@ -1,6 +1,6 @@
 import React from "react";
 import { FaExternalLinkAlt } from "react-icons/fa";
-import sortingVisualizer from "../assets/sortingVisualizer.png";
+import sortingvisualizer from "../assets/sortingvisualizer.png";
 import netflixClone from "../assets/netflixClone.jpeg";
 import Benifest from "../assets/Benifest.jpeg";
 import recommendationEngine from "../assets/recommendationEngine.jpeg";
@@ -27,7 +27,7 @@ const data = [
     id: "3",
     name: "Sorting Visualizer",
     skillsUsed: "ReactJs",
-    src: sortingVisualizer,
+    src: sortingvisualizer,
     description:
       "This is a project made using React Js and is a program or tool that visually demonstrates how various sorting algorithms work by animating the process of sorting a collection of elements. The purpose of a sorting visualizer is to help users understand the inner workings of sorting algorithms.",
     url: "https://sorting-visualizer-green-one.vercel.app/",
