@@ -1,4 +1,3 @@
-import React from "react";
 import attentive from "../assets/attentive.png";
 import microsoft from "../assets/microsoft.png";
 import GurugramCyberCell from "../assets/GurugramCyberCell.webp";
@@ -21,7 +20,7 @@ const ExperienceData = [
     companyName: "Attentive",
     companyLogo: attentive,
     startDate: new Date(2023, 9),
-    endDate: new Date(),
+    endDate: new Date(2023,11),
     role: "Frontend Intern",
     location: "Noida,Uttar Pradesh,India",
     mode: "On-site",
@@ -108,6 +107,7 @@ const Experience = () => {
       <div>
         {ExperienceData.map((val) => (
           <ExperienceCard
+            key={val.companyName}
             companyName={val.companyName}
             logo={val.companyLogo}
             startDate={val.startDate}

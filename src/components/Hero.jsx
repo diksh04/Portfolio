@@ -1,4 +1,3 @@
-import React from "react";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiCodeforces } from "react-icons/si";
 import { FiDownload } from "react-icons/fi";
@@ -56,7 +55,11 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a href="https://github.com/diksh04" target="_blank">
+                <a
+                  href="https://github.com/diksh04"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   {" "}
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
@@ -65,6 +68,7 @@ const Hero = () => {
                 <a
                   href="https://www.linkedin.com/in/dikshant462/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
@@ -74,6 +78,7 @@ const Hero = () => {
                 <a
                   href="https://leetcode.com/dikshantluthra462/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {" "}
                   <SiLeetcode className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
@@ -83,6 +88,7 @@ const Hero = () => {
                 <a
                   href="https://codeforces.com/profile/diksh04"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {" "}
                   <SiCodeforces className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
