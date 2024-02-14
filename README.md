@@ -1,8 +1,11 @@
-# React + Vite
+<h3>This is my Portfolio Website which consists of my experiences, coding profile, projects and contact me section</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies used: React + Vite, formspree for email sending
 
-Currently, two official plugins are available:
+Here below,the implementation of my Portfolio website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="960" alt="image" src="https://github.com/diksh04/Portfolio/assets/84238934/7ec8a645-6eb2-48d6-a2c9-fa5074125ea3">
+
+<img width="959" alt="image" src="https://github.com/diksh04/Portfolio/assets/84238934/8b0d3d73-4124-4260-9fcf-b0adbc508220">
+
+<img width="959" alt="image" src="https://github.com/diksh04/Portfolio/assets/84238934/e50322b9-4be5-4216-8901-1f14404b8be9">
