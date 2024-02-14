@@ -1,6 +1,6 @@
 <h3>This is my Portfolio Website which consists of my experience, coding profile, projects and contact me section</h3>
 
-Technologies used: React + Vite, formspree for email sending
+Technologies used: React + Vite, formspree for email sending.
 
 Here below, the implementation of my Portfolio website
 
