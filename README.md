@@ -1,8 +1,8 @@
-<h3>This is my Portfolio Website which consists of my experiences, coding profile, projects and contact me section</h3>
+<h3>This is my Portfolio Website which consists of my experience, coding profile, projects and contact me section</h3>
 
 Technologies used: React + Vite, formspree for email sending
 
-Here below,the implementation of my Portfolio website
+Here below, the implementation of my Portfolio website
 
 <img width="960" alt="image" src="https://github.com/diksh04/Portfolio/assets/84238934/7ec8a645-6eb2-48d6-a2c9-fa5074125ea3">
 
